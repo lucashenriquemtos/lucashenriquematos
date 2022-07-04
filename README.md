@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Matos.
 
-- Atualmente trabalho com desenvolvimento Fullstack
+- Atualmente trabalho com desenvolvimento Fullstack DevOps
 - Estudando TypeScript, Java e Python
 - Contate-me no e-mail: lucashenrique.mtos@gmail.com
 

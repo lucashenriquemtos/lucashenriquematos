@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Matos.
 
-- Atualmente trabalho com desenvolvimento Java & DevOps
+- Atualmente trabalho com desenvolvimento Java
 - Estudando Ansible, Terraform e AWS
 - Contate-me no e-mail: lucashenrique.mtos@gmail.com
 
